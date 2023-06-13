@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning Typescript and Japanese
 - 💞️ I’m looking to collaborate on crypto projects
-- 📫 Reach me by email, find it in one of my commit
+- 📫 Reach me by email, find it in one of my commit, add .patch at the end of one of it
 
 <!---
 vidaniello/vidaniello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
